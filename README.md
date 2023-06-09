@@ -221,6 +221,7 @@ example in your browser, you may be surprised at the result. Instead of seeing
 the counter incremented by 2, it's still only incremented by 1!
 
 Let's add in some `console.log`s to see what's going on:
+//alper was here.
 
 ```jsx
 function increment() {
@@ -341,9 +342,7 @@ callback syntax.
 - [React Docs: Thinking in React](https://reactjs.org/docs/thinking-in-react.html#step-3-identify-the-minimal-but-complete-representation-of-ui-state)
 - [React Docs: Rules of Hooks][rules of hooks]
 
-[destructuring]:
-  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
+[destructuring]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment
 [rules of hooks]: https://reactjs.org/docs/hooks-rules.html
-[rules of hooks explanation]:
-  https://reactjs.org/docs/hooks-rules.html#explanation
+[rules of hooks explanation]: https://reactjs.org/docs/hooks-rules.html#explanation
 [react docs beta]: https://beta.reactjs.org/learn/managing-state
